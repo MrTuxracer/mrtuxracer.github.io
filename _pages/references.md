@@ -9,9 +9,10 @@ Online publications about myself:
 
 I have also profiles on all major bug bounty platforms:
 
-*   [https://hackerone.com/mrtuxracer](https://hackerone.com/mrtuxracer)
-*   [https://bugcrowd.com/mrtuxracer](https://bugcrowd.com/mrtuxracer)
-*   Synack (non-public)
+* [https://hackerone.com/](https://hackerone.com/mrtuxracer)
+* [https://www.intigriti.com/](https://www.intigriti.com/researcher/profile/mrtuxracer)
+* [https://bugcrowd.com/](https://bugcrowd.com/mrtuxracer)
+* Synack (non-public)
 
 A complete overview of all coordinated/disclosed vulnerabilities can be found on the following sites:
 
