@@ -3,6 +3,10 @@ title: Public References
 permalink: /references/
 sitemap: false
 ---
+Online publications about myself:
+* [www.synack.com/](https://www.synack.com/blog/hacking-up-the-synack-leaderboard/) - Hacking Up the Synack Leaderboard with Levels
+* [www.sz.de](https://www.sueddeutsche.de/digital/hacker-netzwerke-computer-geheimdienste-1.4691312?reduced=true) - Ich finde immer eine Schwachstelle
+
 I have also profiles on all major bug bounty platforms:
 
 *   [https://hackerone.com/mrtuxracer](https://hackerone.com/mrtuxracer)
