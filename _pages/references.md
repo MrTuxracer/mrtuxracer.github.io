@@ -10,7 +10,7 @@ Online publications about myself:
 I have also profiles on all major bug bounty platforms:
 
 * [https://hackerone.com/](https://hackerone.com/mrtuxracer)
-* [https://www.intigriti.com/](https://www.intigriti.com/researcher/profile/mrtuxracer)
+* [https://www.intigriti.com/](https://www.intigriti.com/profile/mrtuxracer)
 * [https://bugcrowd.com/](https://bugcrowd.com/mrtuxracer)
 * Synack (non-public)
 
