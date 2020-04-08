@@ -15,8 +15,8 @@ You can find my complete vita at (xing.com)[https://www.xing.com/profile/Julien_
 * `Big German dsl/cable modem manufacturer` - Performed penetration test against hardware devices
 * `Big German domain registrar` - Performed penetration test against newly developed web api
 * `Big German insurance company` - White-box security configuration review
-* `Big German transportation company` - Performed penetration tests against new web functionalities
-* `Big Chinese telecomunication provider` - Performed greybox penetration tests against new products
+* `Big German transportation company` - Performed penetration tests against new web functionality
+* `Big Chinese telecomunication provider` - Performed penetration tests against new products
 * `Mid-sized German cargo company` - Performed firewall configuration analysis and maintenance
 * `Mid-sized German animal food wholesaler` - Secured email infrastructure via configuration review
 * `Small-sized German dog food shop` - Performed security hardening of the online shop
