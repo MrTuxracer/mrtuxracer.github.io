@@ -22,19 +22,19 @@ You can find my complete vita at (xing.com)[https://www.xing.com/profile/Julien_
 * `Small-sized German dog food shop` - Performed security hardening of the online shop
 
 ### Highlighted Blog Publications:
-* `Uber` - Chaining two 0-days to compromise an Uber Wordpress [blog](https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/)
-* `Schneider Electric` - Remote Code Execution against IoT [blog](https://www.rcesecurity.com/2019/05/cve-2018-7841-schneider-electric-umotion-builder-remote-code-execution-0-day/)
-* `Google` - Server-Side Request Forgery Leaking Google's internal DNS information [blog](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/)
+* `Uber` - Chaining two 0-days to compromise an Uber Wordpress - [blog](https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/)
+* `Schneider Electric` - Remote Code Execution against IoT - [blog](https://www.rcesecurity.com/2019/05/cve-2018-7841-schneider-electric-umotion-builder-remote-code-execution-0-day/)
+* `Google` - Server-Side Request Forgery Leaking Google's internal DNS information - [blog](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/)
 
 ### Consulting Services Offer
 I'm working as a freelancer offering the following services to customers:
 1. Penetration Testings targeting:
-  1. Web applications and web services/apis
-  2. Thick clients (Windows, Linux, MacOS)
-  3. Mobile Applications (Android)
+ 1. Web applications and web services/apis
+ 2. Thick clients (Windows, Linux, MacOS)
+ 3. Mobile Applications (Android)
 2. Configuration reviews of:
-  1. Web infrastructure configurations
-  2. Firewalls and Web-Application Firewalls
+ 1. Web infrastructure configurations
+ 2. Firewalls and Web-Application Firewalls
 3. Hacking Trainings for employees
 
 ### Looking for a freelancer?
