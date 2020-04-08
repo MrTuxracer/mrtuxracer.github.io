@@ -10,15 +10,6 @@ bounty hunter, exploit developer and freelancer. I've founded this blog in 201
 Information Security (back then under the name inshell.net), to reflect my very own learning curve and to give back my 
 very personal contribution to the Information Security community.
 
-One really fantastic approach when it comes to legally hacking are bug bounties. I do really like their idea: 
-You are allowed to hack a vendor/website/device, report found security vulnerabilities confidentially to the program 
-owner, and get paid afterwards. While I am still mostly interested in doing application-based bug hunting, I do also 
-work on web application bug bounties on a number of platforms including [Bugcrowd](http://www.bugcrowd.com) 
-and [HackerOne](http://www.hackerone.com) - but primarily as part of the amazing [Synack Red Team](https://synack.com), 
-which is in my opinion the best platform when it comes to efficiency. While I am not allowed to post articles about all 
-vulnerabilities that I have found across these platforms, I do  still try to publish as much generic information on 
-vulnerability types as possible.
-
 ### About Disclosures!
 
 Another important part of my work has always been (and will always be) the coordination of security vulnerabilities 
