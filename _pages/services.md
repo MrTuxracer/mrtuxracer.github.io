@@ -30,7 +30,7 @@ You can find my complete vita at [xing.com](https://www.xing.com/profile/Julien_
 I'm working as a freelancer offering the following services to customers:
 1. Penetration Testings targeting:
   * Web applications and web services/apis
- 2. Thick clients (Windows, Linux, MacOS)
+  * Thick clients (Windows, Linux, MacOS)
   * Mobile Applications (Android)
 2. Configuration reviews of:
   * Web infrastructure configurations
