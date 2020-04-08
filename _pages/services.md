@@ -4,8 +4,8 @@ permalink: /services/
 sitemap: false
 ---
 ### Professional Services
-I do have 10+ years of professional IT security background working for different companies from industry (freight-based), 
-to mostly Germany-based consultation companies and online gaming. I've worked in almost all IT security areas including 
+I do have 10+ years of professional IT security background working for different companies from industry, to mostly 
+Germany-based consultation companies and online gaming. I've worked in almost all IT security areas including 
 network engineering, security consultation, penetration testing, security engineering and security compliance (PCI DSS).
 I do have foreign experience working several months in China.
 
