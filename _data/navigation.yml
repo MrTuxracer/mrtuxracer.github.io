@@ -2,8 +2,8 @@
 main:
   - title: "About Me"
     url: /aboutme/
-  - title: "Public References"
-    url: /references/
+  - title: "Consulting Services"
+    url: /services/
   - title: "Imprint & Privacy Policy"
     url: /privacy-policy/
   - title: "Disclosure Policy"
