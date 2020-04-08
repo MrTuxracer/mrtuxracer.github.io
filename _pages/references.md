@@ -14,7 +14,7 @@ I have also profiles on all major bug bounty platforms:
 * [https://hackerone.com/](https://hackerone.com/mrtuxracer)
 * [https://www.intigriti.com/](https://www.intigriti.com/profile/mrtuxracer)
 * [https://bugcrowd.com/](https://bugcrowd.com/mrtuxracer)
-* Synack (non-public)
+* [https://www.synack.com (non-public)](https://www.synack.com)
 
 A complete overview of all coordinated/disclosed vulnerabilities can be found on the following sites:
 
