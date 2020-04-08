@@ -29,12 +29,12 @@ You can find my complete vita at [xing.com](https://www.xing.com/profile/Julien_
 ### Consulting Services Offer
 I'm working as a freelancer offering the following services to customers:
 1. Penetration Testings targeting:
- 1. Web applications and web services/apis
+  * Web applications and web services/apis
  2. Thick clients (Windows, Linux, MacOS)
- 3. Mobile Applications (Android)
+  * Mobile Applications (Android)
 2. Configuration reviews of:
- 1. Web infrastructure configurations
- 2. Firewalls and Web-Application Firewalls
+  * Web infrastructure configurations
+  * Firewalls and Web-Application Firewalls
 3. Hacking Trainings for employees
 
 ### Looking for a freelancer?
