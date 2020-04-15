@@ -52,6 +52,7 @@ A complete overview of all coordinated/disclosed vulnerabilities can be found on
 | Watchguard | Privileges Escalation | CVE-2013-5701 | 
 | Nullsoft WinAmp | Denial of Service | CVE-2013-4694 | 
 | Ricoh | Remote Code Execution |CVE-2012-5002 | 
+| C4B Xphone UC | Cross-Site Scripting | CVE-2012-4259 |
 | Lan Messenger | Denial of Service |CVE-2012-3845 | 
 | GpsMadpEdit | Denial of Service  |CVE-2012-6042 | 
 | Astaro (now Sophos) | Cross-Site Scripting |CVE-2012-3238 | 
