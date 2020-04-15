@@ -29,6 +29,34 @@ A complete overview of all coordinated/disclosed vulnerabilities can be found on
 * [Exploit-DB](http://www.exploit-db.com/author/?a=3523)
 * [PacketStorm Security](http://packetstormsecurity.com/files/author/9429)
 
+### CVE Track Record
+
+| Vendor/Product | Type | CVE(s) |
+|-----|--------|-----------|
+|Oracle | Undisclosed | CVE-2020-2870, CVE-2020-2871, CVE-2020-2872, CVE-2020-2873, CVE-2020-2874, CVE-2020-2876, CVE-2020-2877, CVE-2020-2878, CVE-2020-2879, CVE-2020-2880, CVE-2020-2881 | 
+| WordPress SlickQuiz | Stored Cross Site Scripting |CVE-2019-12517| 
+| WordPress SlickQuiz | SQL Injection |CVE-2019-12516| 
+| Quest | XSS | CVE-2019-11604| 
+| Schneider Electric | Remote Code Execution |CVE-2018-7841 | 
+| AlienVault | Cross-Site Request Forgery | CVE-2017-14956| 
+| Check_mk | Information Disclosure |CVE-2017-14955| 
+| Ubiquiti | Privileges Escalation |CVE-2016-6914 | 
+| AlienVault | Cross-Site Scripting |CVE-2016-6913 | 
+| Apache Archiva | Cross-Site Scripting | CVE-2016-5005 | 
+| Apache Archiva | Cross-Site Request Forgery |CVE-2016-4469 | 
+| Typo3 | Cross-Site Scripting |CVE-2015-5956 | 
+| Yahoo | Remote Code Execution |CVE-2014-7216 | 
+| Free Download Manager | Remote Code Execution |CVE-2014-2087 | 
+| GetGo Download Manager | Remote Code Execution |CVE-2014-2206 | 
+| Watchguard | Cross-Site Scripting |CVE-2013-5702 | 
+| Watchguard | Privileges Escalation | CVE-2013-5701 | 
+| Nullsoft WinAmp | Denial of Service | CVE-2013-4694 | 
+| Ricoh | Remote Code Execution |CVE-2012-5002 | 
+| Lan Messenger | Denial of Service |CVE-2012-3845 | 
+| GpsMadpEdit | Denial of Service  |CVE-2012-6042 | 
+| Astaro (now Sophos) | Cross-Site Scripting |CVE-2012-3238 | 
+
+
 ### About Disclosures!
 
 Another important part of my work has always been (and will always be) the coordination of security vulnerabilities 
