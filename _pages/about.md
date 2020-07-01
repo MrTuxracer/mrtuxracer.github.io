@@ -34,6 +34,8 @@ A complete overview of all coordinated/disclosed vulnerabilities can be found on
 | Vendor/Product | Type | CVE(s) |
 |-----|--------|-----------|
 |Oracle | Undisclosed | CVE-2020-2870, CVE-2020-2871, CVE-2020-2872, CVE-2020-2873, CVE-2020-2874, CVE-2020-2876, CVE-2020-2877, CVE-2020-2878, CVE-2020-2879, CVE-2020-2880, CVE-2020-2881 | 
+| o2 Business App for Android | Open Redirect | CVE-2020-11882 |
+| Mailgun MJML | Local File Inclusion | CVE-2020-12827 |
 | WordPress SlickQuiz | Stored Cross Site Scripting |CVE-2019-12517| 
 | WordPress SlickQuiz | SQL Injection |CVE-2019-12516| 
 | Quest | XSS | CVE-2019-11604| 
