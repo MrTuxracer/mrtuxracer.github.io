@@ -4,6 +4,7 @@ categories:
 - GDPR
 - BugBounty
 ---
+
 ## What Do Bug Bounty Platforms Store About Their Hackers?
 I do care a lot about data protection and privacy things. I've also been in the situation, where a bug bounty platform was able to track me down due to an incident, which was the initial trigger to ask myself: 
 
