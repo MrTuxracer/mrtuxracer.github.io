@@ -5,10 +5,7 @@ sitemap: false
 ---
 ![]({{ site.baseurl }}/assets/me.jpg)
 
-My name is Julien Ahrens (also known as [@MrTuxracer](https://twitter.com/MrTuxracer)), I'm a 34-years full-time bug 
-bounty hunter, exploit developer and freelancer. I've founded this blog in 2011 when I started to get interested in 
-Information Security (back then under the name inshell.net), to reflect my very own learning curve and to give back my 
-very personal contribution to the Information Security community.
+My name is Julien Ahrens (also known as [@MrTuxracer](https://twitter.com/MrTuxracer)), I'm a 35-years full-time bug bounty hunter, exploit developer and freelancer. I founded this blog in 2011, when I started to get interested in security topics. My goal has always been to reflect my very own learning curve and to give back my very personal contribution to the security community.
 
 ### Online publications about myself
 * [synack.com](https://www.synack.com/blog/hacking-up-the-synack-leaderboard/) - Hacking Up the Synack Leaderboard with Levels
@@ -20,9 +17,9 @@ very personal contribution to the Information Security community.
 I have also profiles on all major bug bounty platforms:
 
 * [hackerone.com](https://hackerone.com/mrtuxracer)
-* [www.intigriti.com](https://www.intigriti.com/profile/mrtuxracer)
+* [intigriti.com](https://www.intigriti.com/profile/mrtuxracer)
 * [bugcrowd.com](https://bugcrowd.com/mrtuxracer)
-* [www.synack.com (non-public)](https://www.synack.com)
+* [synack.com (non-public)](https://www.synack.com)
 
 A complete overview of all coordinated/disclosed vulnerabilities can be found on the following sites:
 
