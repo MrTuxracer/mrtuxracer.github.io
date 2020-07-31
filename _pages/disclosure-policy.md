@@ -33,8 +33,8 @@ Since I do believe in maximum transparency and effective ways for administrators
 
 The advisory will be immediately published using the [Full-Disclosure](http://seclists.org/fulldisclosure/) mailing-list, either when:
 
-*   **14-Days initial deadline ends:** The vendor does not respond to any of the initial notifications or does not acknowledge the vulnerability.
-*   **45-Days final deadline ends:** The vendor does not meet the final disclosure date without an extension.
+*   The **14-Days initial deadline ends:** The vendor does not respond to any of the initial notifications or does not acknowledge the vulnerability.
+*   The **45-Days final deadline ends:** The vendor does not meet the final disclosure date without an extension.
 *   An official update is released by the vendor.
 *   A third party publishes an advisory on the same issue.
 *   The vendor hasn't responded to multiple, previous coordination attempts.
