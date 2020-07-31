@@ -21,7 +21,7 @@ usually also include a **preset disclosure date**, which is set **14 days** afte
 
 If the vendor does not respond to the notification(s) or does not acknowledge the vulnerability until the initial deadline ends, the vulnerability will be disclosed immediately. I decided to take this strict first deadline for a straightforward reason: In 95% of my previous coordination attempts, a vendor who does not respond within the first 14 days, likely won't respond at all. 
 
-If the vendor responds, the initial deadline will be extended to the **45 days final** **deadline**. While working on the issue until the final deadline, I expect regular status updates on the report. If there is none, the vulnerability will be made public after 45 days regardless of its state.
+If the vendor responds, the initial deadline can be extended to the **45 days final** **deadline**. While working on the issue until the final deadline, I expect regular status updates on the report. If there is none, the vulnerability will be made public after 45 days regardless of its state.
 
 However, if the vendor has a good explanation or the vulnerability affects a wide range of users or systems, the deadline might be extended.
 
