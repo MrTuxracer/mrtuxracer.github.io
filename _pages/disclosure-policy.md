@@ -31,7 +31,7 @@ Since I do believe in maximum transparency and effective ways for administrators
 
 ### Summary
 
-The advisory will be immediately published using the </span>[Full-Disclosure](http://seclists.org/fulldisclosure/)<span style="font-size: 16px; line-height: 1.428571429;"> and </span>[Bugtraq ](http://www.securityfocus.com/archive/1)mailing - lists, either when:
+The advisory will be immediately published using the [Full-Disclosure](http://seclists.org/fulldisclosure/) mailing-list, either when:
 
 *   **14-Days initial deadline ends:** The vendor does not respond to any of the initial notifications or does not acknowledge the vulnerability.
 *   **45-Days final deadline ends:** The vendor does not meet the final disclosure date without an extension.
