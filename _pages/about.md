@@ -30,6 +30,8 @@ A complete overview of all coordinated/disclosed vulnerabilities can be found on
 
 | Vendor/Product | Type | CVE(s) |
 |-----|--------|-----------|
+| Framer Preview | Arbitrary URL Loading | CVE-2020-25203 |
+| Acronis Cyber Backup | Unauthenticated SSRF | CVE-2020-16171 |
 | o2 Business App for Android | Open Redirect | CVE-2020-11882 |
 | Mailgun MJML | Local File Inclusion | CVE-2020-12827 |
 | Oracle | Undisclosed | CVE-2020-2870, CVE-2020-2871, CVE-2020-2872, CVE-2020-2873, CVE-2020-2874, CVE-2020-2876, CVE-2020-2877, CVE-2020-2878, CVE-2020-2879, CVE-2020-2880, CVE-2020-2881 | 
