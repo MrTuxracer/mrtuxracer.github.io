@@ -8,6 +8,7 @@ sitemap: false
 My name is Julien Ahrens (also known as [@MrTuxracer](https://twitter.com/MrTuxracer)), I'm a 35-years full-time bug bounty hunter, exploit developer and freelancer. I founded this blog in 2011, when I started to get interested in security topics. My goal has always been to reflect my very own learning curve and to give back my very personal contribution to the security community.
 
 ### Online publications about myself
+* [hackerone.com](https://www.hackerone.com/blog/hacker-spotlight-interview-mrtuxracer) - HACKER SPOTLIGHT: INTERVIEW WITH MRTUXRACER
 * [synack.com](https://www.synack.com/blog/hacking-up-the-synack-leaderboard/) - Hacking Up the Synack Leaderboard with Levels
 * [sz.de](https://www.sueddeutsche.de/digital/hacker-netzwerke-computer-geheimdienste-1.4691312?reduced=true) - Ich finde immer eine Schwachstelle
 * [bild.de](https://www.bild.de/bild-plus/digital/internet/internet/hacking-ist-mein-beruf-und-jeder-kann-ihn-lernen-65204946,view=conversionToLogin.bild.html) - Interview with bild.de
